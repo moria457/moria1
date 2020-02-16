@@ -8,7 +8,7 @@ function App() {
     <div className="App">
 
       <Router>
-        <Link to='/'>Homepage</Link>
+        <Link to='/'>Homepage</Link> <br/><br/>
         <Link to='/page2'>2</Link>
         <Switch>
           <Route exact path='/' component={()=>{return <h1>Homepage</h1>}}/>
