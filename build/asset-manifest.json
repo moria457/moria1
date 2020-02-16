@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/moria1/static/css/main.d1b05096.chunk.css",
-    "main.js": "/moria1/static/js/main.d54abb6c.chunk.js",
-    "main.js.map": "/moria1/static/js/main.d54abb6c.chunk.js.map",
+    "main.js": "/moria1/static/js/main.0c65d0d3.chunk.js",
+    "main.js.map": "/moria1/static/js/main.0c65d0d3.chunk.js.map",
     "runtime-main.js": "/moria1/static/js/runtime-main.811aadd3.js",
     "runtime-main.js.map": "/moria1/static/js/runtime-main.811aadd3.js.map",
     "static/js/2.42d1d85c.chunk.js": "/moria1/static/js/2.42d1d85c.chunk.js",
     "static/js/2.42d1d85c.chunk.js.map": "/moria1/static/js/2.42d1d85c.chunk.js.map",
     "index.html": "/moria1/index.html",
-    "precache-manifest.7644e0d86071ae1f6912fb2c13a7cd3b.js": "/moria1/precache-manifest.7644e0d86071ae1f6912fb2c13a7cd3b.js",
+    "precache-manifest.43d707b1d985b0cabd4c14f98df20e67.js": "/moria1/precache-manifest.43d707b1d985b0cabd4c14f98df20e67.js",
     "service-worker.js": "/moria1/service-worker.js",
     "static/css/main.d1b05096.chunk.css.map": "/moria1/static/css/main.d1b05096.chunk.css.map",
     "static/js/2.42d1d85c.chunk.js.LICENSE.txt": "/moria1/static/js/2.42d1d85c.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.811aadd3.js",
     "static/js/2.42d1d85c.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.d54abb6c.chunk.js"
+    "static/js/main.0c65d0d3.chunk.js"
   ]
 }

@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "32c635fcc67dfd895911041e1e2ce203",
+    "revision": "e3638a0048b2b1bc0455606c0dc64fba",
     "url": "/moria1/index.html"
   },
   {
-    "revision": "908a5d296535074dd9dc",
+    "revision": "42597eb0441def236855",
     "url": "/moria1/static/css/main.d1b05096.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/moria1/static/js/2.42d1d85c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "908a5d296535074dd9dc",
-    "url": "/moria1/static/js/main.d54abb6c.chunk.js"
+    "revision": "42597eb0441def236855",
+    "url": "/moria1/static/js/main.0c65d0d3.chunk.js"
   },
   {
     "revision": "152ce40b7c8a11583c79",
